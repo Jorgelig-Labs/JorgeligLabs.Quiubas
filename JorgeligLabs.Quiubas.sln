@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31213.239
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JorgeligLabs.Quiubas", "JorgeligLabs.Quiubas\JorgeligLabs.Quiubas.csproj", "{0FD9D62D-D8BE-4941-9D66-E531D4095C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JorgeligLabs.Quiubas.Test", "JorgeligLabs.Quiubas.Test\JorgeligLabs.Quiubas.Test.csproj", "{D4EBC06C-303E-44EC-B805-8CDABEB8A98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD9D62D-D8BE-4941-9D66-E531D4095C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD9D62D-D8BE-4941-9D66-E531D4095C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD9D62D-D8BE-4941-9D66-E531D4095C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD9D62D-D8BE-4941-9D66-E531D4095C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4EBC06C-303E-44EC-B805-8CDABEB8A98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EBC06C-303E-44EC-B805-8CDABEB8A98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EBC06C-303E-44EC-B805-8CDABEB8A98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EBC06C-303E-44EC-B805-8CDABEB8A98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2923924D-015F-41B6-B0C6-00CC8D72DD38}
+	EndGlobalSection
+EndGlobal
